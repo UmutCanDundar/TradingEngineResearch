@@ -12,7 +12,7 @@ I plan to keep doing this with other instruments/strategies as I learn more, bef
 - **Momentum** (MA crossover) 
 - **Bollinger Breakout** 
 - **Pairs Trading** (GARAN.IS / AKBNK.IS) 
-- **Kelly + volatility-adjusted sizing** — (with the best strategy (Momentum)) 
+- **Momentum + Kelly - volatility-adjusted sizing**
 
 ## Data & setup
 
