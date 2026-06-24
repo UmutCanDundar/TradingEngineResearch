@@ -2,7 +2,7 @@
 
 This is a learning/practice repo, not a production trading system. Before building the strategy engine layer for my main project (a low-latency C++ trading engine), I wanted to get hands-on with the quant/strategy side of things — backtesting basic strategies in Python, computing the usual risk metrics, and learning to read equity curves.
 
-So this repo is five classic strategies tested on the same BIST stock (GARAN.IS, 2020-2025), just to see how they behave and to practice the tooling (pandas, matplotlib, basic backtesting logic). It's intentionally simple — no parameter optimization, no walk-forward validation, no claim that any of this is tradeable. The point was learning the workflow end to end: generate a signal, backtest it, compute Sharpe/drawdown/win rate, plot it, and actually understand what the numbers mean.
+So this repo is four classic strategies tested on the same BIST stock (GARAN.IS, 2020-2025), just to see how they behave and to practice the tooling (pandas, matplotlib, basic backtesting logic). It's intentionally simple — no parameter optimization, no walk-forward validation, no claim that any of this is tradeable. The point was learning the workflow end to end: generate a signal, backtest it, compute Sharpe/drawdown/win rate, plot it, and actually understand what the numbers mean.
 
 I plan to keep doing this with other instruments/strategies as I learn more, before eventually moving on to designing the strategy engine for the real project.
 
