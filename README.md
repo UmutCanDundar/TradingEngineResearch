@@ -6,7 +6,7 @@ So this repo is four classic strategies tested on the same BIST stock (GARAN.IS,
 
 I plan to keep doing this with other instruments/strategies as I learn more, before eventually moving on to designing the strategy engine for the real project.
 
-## Strategies + Kelly
+## Strategies
 
 - **Mean Reversion** (z-score) 
 - **Momentum** (MA crossover) 
